@@ -1,0 +1,22 @@
+
+BR_REF				=	"mp/brloottable.csv";
+
+BR_INDEX            = 0;
+BR_LOOT_COMMENT     = 1;
+BR_LOOT_MODEL       = 2;
+BR_INVENTORY_ICON   = 3;
+BR_INVENTORY_STRING = 4;
+BR_LOOT_PART        = 5;
+BR_ACTIVE           = 6;
+BR_RARITY           = 7;
+BR_AMMO_STOCK       = 8;
+BR_AMMO_STOCK_MAX   = 9;
+BR_PICKUP_STRING    = 10;
+BR_GAME_STRING      = 11;
+BR_STACK_SIZE       = 12;
+BR_NUM_PER_PICKUP   = 13;
+BR_ITEM_TYPE        = 14;
+BR_INTERACTION      = 15;
+BR_MARKER_ICON      = 16;
+BR_MARKER_ZOFFSET   = 17;
+BR_SLOT_OVERRIDE	= 18;

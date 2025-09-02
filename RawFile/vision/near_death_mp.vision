@@ -1,0 +1,30 @@
+
+
+r_primaryLightTweakDiffuseStrength    "1"
+r_primaryLightTweakSpecularStrength   "1"
+r_charLightAmbient			           "0 0 0"
+
+
+r_viewModelPrimaryLightTweakDiffuseStrength    "1"
+r_viewModelPrimaryLightTweakSpecularStrength   "1"
+r_viewModelLightAmbient               "0 0 0"
+
+r_volumeLightScatter                  "0"
+r_volumeLightScatterColor             "0.2 0.2 0.2"
+r_volumeLightScatterLinearAtten       "1"
+r_volumeLightScatterQuadraticAtten    "0"
+r_volumeLightScatterAngularAtten      "0.25"
+r_volumeLightScatterDepthAttenNear    "0"
+r_volumeLightScatterDepthAttenFar     "0"
+r_volumeLightScatterBackgroundDistance "100000"
+
+r_ssaoStrength                        "1"
+
+
+colorizationSetCurveLowMin "0.09"
+colorizationSetCurveLowMax "0.17"
+colorizationSetCurveHighMin "0.44"
+colorizationSetCurveHighMax "0.61"
+colorizationSetCurveMidMidpoint "0.24"
+colorizationSetCurveMidRange "0.11"
+colorizationSetCurveMidFalloff "0.11"

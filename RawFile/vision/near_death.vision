@@ -1,0 +1,13 @@
+
+
+
+
+
+
+colorizationSetCurveLowMin "0.09"
+colorizationSetCurveLowMax "0.17"
+colorizationSetCurveHighMin "0.44"
+colorizationSetCurveHighMax "0.61"
+colorizationSetCurveMidMidpoint "0.24"
+colorizationSetCurveMidRange "0.11"
+colorizationSetCurveMidFalloff "0.11"

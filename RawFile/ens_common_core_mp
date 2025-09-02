@@ -1,0 +1,2 @@
+ERROR: image 'images/hud_icon_death_hvt.iwi' is missing [ens_common_core_mp -> image,hud_icon_death_hvt]
+ERROR: failed loading 'hud_icon_death_hvt' of type 'image' [ens_common_core_mp]

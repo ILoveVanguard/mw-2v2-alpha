@@ -1,0 +1,3 @@
+analogRewindAmount "0.01"
+analogInterferenceAmount "0.05"
+analogCrtEffectAmount "0.35"

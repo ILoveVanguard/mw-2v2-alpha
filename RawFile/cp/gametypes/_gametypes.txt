@@ -1,0 +1,7 @@
+zombie
+escape
+cp_strike
+cp_pvpve
+cp_survival
+cp_trials
+none

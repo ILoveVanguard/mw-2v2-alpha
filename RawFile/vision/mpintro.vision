@@ -1,0 +1,44 @@
+
+
+r_primaryLightTweakDiffuseStrength    "1"
+r_primaryLightTweakSpecularStrength   "1"
+r_charLightAmbient			           "0 0 0"
+
+
+r_viewModelPrimaryLightTweakDiffuseStrength    "1"
+r_viewModelPrimaryLightTweakSpecularStrength   "1"
+r_viewModelLightAmbient               "0 0 0"
+
+r_volumeLightScatter                  "0"
+r_volumeLightScatterColor             "0.2 0.2 0.2"
+r_volumeLightScatterLinearAtten       "1"
+r_volumeLightScatterQuadraticAtten    "0"
+r_volumeLightScatterAngularAtten      "0.25"
+r_volumeLightScatterDepthAttenNear    "0"
+r_volumeLightScatterDepthAttenFar     "0"
+r_volumeLightScatterBackgroundDistance "100000"
+
+r_ssaoStrength                        "1"
+
+
+r_glare_normalStart                   "0.125"
+r_glare_normalEnd                     "0.75"
+r_glare_normalPower                   "1"
+r_glare_normalAmount                  "0"
+r_glare_mirrorStart                   "0.125"
+r_glare_mirrorEnd                     "0.75"
+r_glare_mirrorPower                   "1"
+r_glare_mirrorAmount                  "0"
+
+
+
+colorizationSetCurveHighMax "0.89"
+colorizationSetCurveMidMidpoint "0.3"
+colorizationSetCurveMidFalloff "0.38"
+colorizationSetCurveLowMin "0"
+colorizationSetCurveLowMax "1"
+colorizationSetCurveHighMin "1"
+colorizationSetCurveMidRange "0"
+toneWhitePoint "1.0 1.0 1.0"
+clut0Image ""
+clut1Image ""

@@ -1,0 +1,10 @@
+MAX_VEHICLE_COUNT = 64;
+
+WATCH_SUSPEND_DELAY = 3;
+
+MIN_ACCEL_TO_BE_INERT      = 3;
+TIME_INERT_UNTIL_SUSPENDED = 3;
+
+SPAWN_FAIL_CODE                 = "code";
+SPAWN_FAIL_TOTAL_LIMIT_EXCEEDED = "total_limit_exceeded";
+SPAWN_FAIL_SPAWN_LIMIT_EXCEEDED = "spawn_limit_exceeded";

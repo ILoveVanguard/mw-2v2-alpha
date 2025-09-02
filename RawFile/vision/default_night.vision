@@ -1,0 +1,7 @@
+colorizationSetCurveLowMin "0"
+colorizationSetCurveLowMax "1"
+colorizationSetCurveHighMin "1"
+colorizationSetCurveHighMax "0"
+colorizationSetCurveMidMidpoint "0.5"
+colorizationSetCurveMidRange "0"
+colorizationSetCurveMidFalloff "0.5"

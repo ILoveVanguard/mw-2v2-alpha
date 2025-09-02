@@ -1,0 +1,4 @@
+fogColorIntensity "1"
+chromaRadius "0.75"
+chromaStrength "0.01"
+chromaAberration "0.1"

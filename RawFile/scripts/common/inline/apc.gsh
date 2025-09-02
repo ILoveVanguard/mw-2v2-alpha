@@ -1,0 +1,85 @@
+// vehicle
+APC_VEHICLE_REF    = "apc";
+APC_VEHICLE_TYPE   = "stango_physics_mp";
+APC_VEHICLE_MODEL  = "veh8_mil_lnd_stango_physics_mp";
+APC_VEHICLE_WEAPON = "apc_mp";
+
+// seats - keep in sync with scriptable veh_apc_mp
+APC_DRIVER_SEAT_REF  = "driver";
+APC_FL_REAR_SEAT_REF = "front_left_rear";
+APC_FR_REAR_SEAT_REF = "front_right_rear";
+APC_MR_REAR_SEAT_REF = "middle_right_rear";
+APC_ML_REAR_SEAT_REF = "middle_left_rear";
+APC_B_REAR_SEAT_REF  = "back_rear";
+
+// animation tags, do not need to be in sync
+APC_DRIVER_SEAT_TAG  = "tag_seat_0";
+APC_FL_REAR_SEAT_TAG = "tag_seat_2";
+APC_FR_REAR_SEAT_TAG = "tag_seat_1";
+APC_ML_REAR_SEAT_TAG = "tag_seat_3";
+APC_MR_REAR_SEAT_TAG = "tag_seat_4";
+APC_B_REAR_SEAT_TAG  = "tag_seat_5";
+
+// exiting
+APC_EXIT_EXTENTS_FRONT  = 144;
+APC_EXIT_EXTENTS_BACK   = 137;
+APC_EXIT_EXTENTS_LEFT   = 57;
+APC_EXIT_EXTENTS_RIGHT  = 57;
+APC_EXIT_EXTENTS_TOP    = 105;
+APC_EXIT_EXTENTS_BOTTOM = 0;
+
+APC_EXIT_CAST_UP_OFFSET          = 68;
+APC_EXIT_CAST_UP_OFFSET_INVERTED = 76;
+APC_EXIT_CAST_DOWN_DISTANCE      = 85;
+
+APC_EXIT_FALLBACK_OFFSET          = APC_EXIT_EXTENTS_TOP + 20;
+APC_EXIT_FALLBACK_OFFSET_INVERTED = APC_EXIT_EXTENTS_BOTTOM + 20;
+
+// damage
+APC_MAX_HEALTH = 2700;
+APC_MAX_HITS   = 13;
+
+APC_EXPLODE_MAX_DAMAGE = 140;
+APC_EXPLODE_MIN_DAMAGE = 70;
+APC_EXPLODE_RADIUS     = 256;
+
+// mines
+APC_MINE_EXTENTS_FRONT      = 115;
+APC_MINE_EXTENTS_BACK       = 118;
+APC_MINE_EXTENTS_LEFT       = 49;
+APC_MINE_EXTENTS_RIGHT      = 49;
+APC_MINE_EXTENTS_BOTTOM     = 33;
+APC_MINE_DISTANCE_TO_BOTTOM = APC_MINE_EXTENTS_BOTTOM + 15;
+APC_MINE_LOS_CHECK_OFFSET   = ( 0, 0, 70 );
+
+// fx
+APC_EXPLODE_TAG = "tag_origin";
+APC_EXPLODE_FX  = "vfx/iw8/veh/scriptables/vfx_veh_explosion_sedan.vfx";
+APC_EXPLODE_SFX = "car_explode";
+
+APC_EXPLODE_EQ_SCALE    = 0.4;
+APC_EXPLODE_EQ_RADIUS   = 0.7;
+APC_EXPLODE_EQ_DURATION = 800;
+
+APC_EXPLODE_PHYS_SCALE        = 1;
+APC_EXPLODE_PHYS_OUTER_RADIUS = 500;
+APC_EXPLODE_PHYS_INNER_RADIUS = 200;
+
+// mp only
+APC_SPAWN_MAX_INSTANCE_COUNT = 2;
+APC_SPAWN_PRIORITY           = 75;
+
+// damage modification - explosive damage
+APC_C4_HITS_PER_ATTACK      = 7;
+APC_AT_MINE_HITS_PER_ATTACK = 7;
+
+// % based damage modification (bullet damage)
+APC_MG_DAMAGE_MODIFIER     = - 0.25;
+APC_RIFLE_DAMAGE_MODIFIER  = - 0.5;
+APC_SMG_DAMAGE_MODIFIER    = -1;
+APC_PISTOL_DAMAGE_MODIFIER = -1;
+APC_SPREAD_DAMAGE_MODIFIER = -1;
+APC_SNIPER_DAMAGE_MODIFIER = 1;
+	
+// quake ed
+APC_SPAWN_FLAG_DONT_SPAWN_BIT = 1;

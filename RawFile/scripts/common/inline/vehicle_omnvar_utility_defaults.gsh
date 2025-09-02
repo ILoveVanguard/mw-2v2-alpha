@@ -1,0 +1,2 @@
+// WARNINGS
+VEH_OMN_DEF_WARNING_MISSILE_INCOMING = "missileIncoming";

@@ -1,0 +1,7 @@
+fogColorIntensity "1"
+tonemapExposure "8.4"
+tonemapMaxExposure "-10"
+tonemapExposureAdjust "0"
+chromaRadius "1"
+chromaStrength "0.07999999"
+chromaAberration "1"

@@ -1,0 +1,130 @@
+{
+	map			"mp_aniyah"
+	longname	"LUA_MENU/MAPNAME_ANIYAH"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_ANIYAH"
+	mapimage    "loading_mp_aniyah_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_cave"
+	longname	"LUA_MENU/MAPNAME_CAVE"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_CAVE"
+	mapimage    "loading_mp_cave_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_cave_am"
+	longname	"LUA_MENU/MAPNAME_CAVE_AM"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_CAVE"
+	mapimage    "loading_mp_cave_am_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_hackney_yard"
+	longname	"LUA_MENU/MAPNAME_HACKNEY_YARD"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/HACKNEY_YARD_DESC"
+	mapimage    "loading_mp_hackney_bg"
+	mapvoteimage "image_mp_map_hackney_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_hackney_am"
+	longname	"LUA_MENU/MAPNAME_HACKNEY_AM"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/HACKNEY_YARD_DESC"
+	mapimage    "loading_mp_hackney_am_bg"
+	mapvoteimage "image_mp_map_hackney_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_raid"
+	longname	"LUA_MENU/MAPNAME_RAID"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_RAID"
+	mapimage    "loading_mp_raid_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{	
+	map			"mp_runner"
+	longname	"LUA_MENU/MAPNAME_RUNNER_AM"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_RUNNER"
+	mapimage    "loading_mp_runner_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{	
+	map			"mp_runner_pm"
+	longname	"LUA_MENU/MAPNAME_RUNNER"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_RUNNER"
+	mapimage    "loading_mp_runner_pm_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_king"
+	longname	"LUA_MENU/MAPNAME_M_KING"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_M_KING"
+	mapimage    "loading_mp_m_king_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_pine"
+	longname	"LUA_MENU/MAPNAME_M_PINE"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_M_PINE"
+	mapimage    "loading_mp_m_pine_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_stack"
+	longname	"LUA_MENU/MAPNAME_M_STACK"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_M_STACK"
+	mapimage    "loading_mp_m_stack_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_overunder"
+	longname	"LUA_MENU/MAPNAME_M_OVERUNDER"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_M_OVERUNDER"
+	mapimage    "loading_mp_m_overunder_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_speedball"
+	longname	"LUA_MENU/MAPNAME_M_SPEEDBALL"
+	gametype	"ball conf ctf dd dm dom front grind grnd gun infect koth sd siege sr tdef war hc thc"
+	description "LUA_MENU/MAPNAME_M_SPEEDBALL"
+	mapimage    "loading_mp_m_speedball_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}

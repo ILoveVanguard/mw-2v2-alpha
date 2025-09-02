@@ -1,0 +1,68 @@
+
+//INFILTRATIONS  ----------------------------------------
+//Blackhawk
+
+bh_rotors
+lbravo_rotors
+
+mp_faridah_infil_bird_a
+mp_faridah_infil_bird_b
+mp_faridah_infil_bird_c
+mp_faridah_infil_bird_intro
+techo_faridah_infil_car_a
+techo_faridah_infil_car_b
+mp_infil_blima_heli
+mp_infil_blima_r_heli
+mp_infil_blima_heli_mpspear_alpha
+mp_infil_blima_heli_mpspear_bravo
+mp_infil_blima_heli_mpcave_alpha
+mp_infil_blima_heli_mpcave_bravo
+mp_infil_act_blima_heli
+mp_infil_act_blima_b_heli
+mp_heli_figure_8_test
+mp_infil_lbravo_a_heli
+mp_infil_lbravo_b_heli
+mp_infil_lbravo_b_heli_runner
+mp_infil_lbravo_a_heli_raid
+mp_infil_lbravo_b_heli_raid
+mp_infil_tango72_a_veh_intro
+mp_infil_tango72_b_veh_intro
+mp_infil_umike_vehicle_tailgate
+
+//KILLSTREAKS  ----------------------------------------
+// Chopper Gunner
+mp_ahotel64_intro_01
+mp_ahotel64_crash_01
+mp_ahotel64_outro_01
+
+// Hover Jet
+mp_halfa_flyin
+mp_halfa_exit
+
+est_blima_doors_open
+cp_infil_blima_heli
+
+//mindia ai infil
+vh_mindia8_heli_idle
+vh_mindia8_heli_arrival_2
+vh_mindia8_heli_exit_2
+vh_mindia8_heli_exit_4
+vh_mindia8_heli_exit_6
+vh_mindia8_heli_exit_8
+
+// care package entrance
+mp_carepackage_lbravo_flyin
+
+// light tank entrance
+mp_bromeo_drop_bromeo
+
+//decho hvt anims
+sdr_cp_hostage_dropoff_truck_decho
+sdr_cp_hostage_pickup_truck_decho
+vm_hostage_dropoff_truck_decho
+vm_hostage_pickup_truck_decho
+
+//decho vip anims
+cp_vh_decho_door_chase_pass_get_in
+cp_vh_decho_chase_pass_get_in
+cp_vh_decho_chase_pass_idle_search01

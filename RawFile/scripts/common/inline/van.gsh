@@ -1,0 +1,73 @@
+// vehicle
+VAN_VEHICLE_REF    = "van";
+VAN_VEHICLE_TYPE   = "palfa_physics_mp";
+VAN_VEHICLE_MODEL  = "veh8_civ_lnd_palfa_windows_east_physics_tan_mp";
+VAN_VEHICLE_WEAPON = "van_mp";
+
+// seats - keep in sync with veh_van_mp
+VAN_DRIVER_SEAT_REF  = "driver";
+VAN_FR_SEAT_REF      = "front_right";
+VAN_FL_REAR_SEAT_REF = "front_left_rear";
+VAN_FR_REAR_SEAT_REF = "front_right_rear";
+VAN_BL_REAR_SEAT_REF = "back_left_rear";
+VAN_BR_REAR_SEAT_REF = "back_right_rear";
+
+// anim tags, no need to keep in sync
+VAN_DRIVER_SEAT_TAG  = "tag_seat_0";
+VAN_FR_SEAT_TAG      = "tag_seat_1";
+VAN_FL_REAR_SEAT_TAG = "tag_seat_2";
+VAN_FR_REAR_SEAT_TAG = "tag_seat_4";
+VAN_BL_REAR_SEAT_TAG = "tag_seat_3";
+VAN_BR_REAR_SEAT_TAG = "tag_seat_5";
+
+// exiting
+VAN_EXIT_EXTENTS_FRONT  = 130;
+VAN_EXIT_EXTENTS_BACK   = 117;
+VAN_EXIT_EXTENTS_LEFT   = 55;
+VAN_EXIT_EXTENTS_RIGHT  = 55;
+VAN_EXIT_EXTENTS_TOP    = 105;
+VAN_EXIT_EXTENTS_BOTTOM = 0;
+
+VAN_EXIT_CAST_UP_OFFSET          = 70;
+VAN_EXIT_CAST_UP_OFFSET_INVERTED = 35;
+VAN_EXIT_CAST_DOWN_DISTANCE      = 90;
+
+VAN_EXIT_FALLBACK_OFFSET          = VAN_EXIT_EXTENTS_TOP + 20;
+VAN_EXIT_FALLBACK_OFFSET_INVERTED = VAN_EXIT_EXTENTS_BOTTOM + 20;
+
+// damage
+VAN_MAX_HEALTH = 1350;
+VAN_MAX_HITS   = 8;
+
+VAN_EXPLODE_MAX_DAMAGE = 140;
+VAN_EXPLODE_MIN_DAMAGE = 70;
+VAN_EXPLODE_RADIUS     = 256;
+
+// mines
+VAN_MINE_EXTENTS_FRONT      = 117;
+VAN_MINE_EXTENTS_BACK       = 105;
+VAN_MINE_EXTENTS_LEFT       = 42;
+VAN_MINE_EXTENTS_RIGHT      = 42;
+VAN_MINE_EXTENTS_BOTTOM     = 12;
+VAN_MINE_DISTANCE_TO_BOTTOM = VAN_MINE_EXTENTS_BOTTOM + 15;
+VAN_MINE_LOS_CHECK_OFFSET   = ( 0, 0, 55 );
+
+// fx
+VAN_EXPLODE_TAG = "tag_origin";
+VAN_EXPLODE_FX  = "vfx/iw8/veh/scriptables/vfx_veh_explosion_sedan.vfx";
+VAN_EXPLODE_SFX = "car_explode";
+
+VAN_EXPLODE_EQ_SCALE    = 0.4;
+VAN_EXPLODE_EQ_RADIUS   = 0.7;
+VAN_EXPLODE_EQ_DURATION = 800;
+
+VAN_EXPLODE_PHYS_SCALE        = 1;
+VAN_EXPLODE_PHYS_OUTER_RADIUS = 500;
+VAN_EXPLODE_PHYS_INNER_RADIUS = 200;
+
+// mp only
+VAN_SPAWN_MAX_INSTANCE_COUNT = 2;
+VAN_SPAWN_PRIORITY           = 75;
+
+// quake ed
+VAN_SPAWN_FLAG_DONT_SPAWN_BIT = 1;
